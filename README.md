@@ -10,7 +10,7 @@ This repository contains the work completed during my Data Analysis with Python 
 
 ## Internship Details
 
-- **Internship Duration:** 16th October, 2024 - Present
+- **Internship Duration:** 16th October, 2024 - 16th November, 2024
 - **Organization:** Cognifyz Technologies
 - **Role:** Data Analyst Intern
 
