@@ -17,7 +17,7 @@ This repository contains the work completed during my Data Analysis with Python 
 ---
 
 ## 📁 Table of Contents
-- [Project Overview](#project-overview)
+- [Project Overview](#overview)
 - [Level 1 Tasks](#level-1-tasks)
 - [Level 2 Tasks](#level-2-tasks)
 - [Level 3 Tasks](#level-3-tasks)
